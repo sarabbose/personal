@@ -634,5 +634,6 @@ if __name__ == "__main__":
     if not initialize_models():
         logger.error("Failed to initialize models")
         sys.exit(1)
-    uvicorn.run("main:app", host="127.0.0.1", port=5000, reload=True)
+   uvicorn.run("main:app", host="0.0.0.0", port=10000)
+
 
