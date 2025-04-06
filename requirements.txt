@@ -14,4 +14,4 @@ fastapi==0.95.0
 uvicorn==0.22.0
 rdkit==2022.9.5          # Works with numpy 1.23.5
 pydantic==1.10.5
-pickle5==0.0.11
+
