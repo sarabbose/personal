@@ -7,6 +7,9 @@ python-multipart==0.0.9
 pydantic==1.10.13
 rdkit-pypi==2022.9.5
 scikit-learn==1.4.1.post1
+shap==0.44.1
+lime==0.2.0.1
+seaborn==0.13.2
 torch==2.2.2
 tqdm==4.66.2
 uvicorn==0.29.0
