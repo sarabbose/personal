@@ -10,7 +10,7 @@ tqdm==4.66.2
 mordred==1.2.0
 fastapi==0.95.0
 uvicorn==0.22.0
-numpy==1.24.0
+numpy==1.23.0
 rdkit==2022.9.5
 
 pydantic==1.10.5
