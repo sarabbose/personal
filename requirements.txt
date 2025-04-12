@@ -12,6 +12,6 @@ tqdm==4.66.2
 mordred==1.2.0           # Compatible with numpy==1.*
 fastapi==0.95.0
 uvicorn==0.22.0
-rdkit==2022.9.5          # Works with numpy 1.23.5
+rdkit==2023.9.1
 pydantic==1.10.5
 
